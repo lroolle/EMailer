@@ -1,11 +1,15 @@
-Name:
+﻿Name:
 Email address:
 Password:
 Mobile:
 Subject:
 
-## ����Ϣ�������Լ��ģ���
+## 把信息换成你自己的！！
 
-## ��Ҫ��ӿո���߻��У���
+## 注意格式
 
-## ��Ȼ����������������
+	Name:Eric Wang  ------中间有空格
+
+	...
+
+## 另外，pdf 名字可以随意，在 'config.py' 里可以自行配置。
